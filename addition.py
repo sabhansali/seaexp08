@@ -11,6 +11,7 @@ def main():
     
     print(f"Adding {x} and {y}")
     print(f"Result: {result}")
-
+    print("CI test updated!!!!")
+    
 if __name__ == "__main__":
     main()
